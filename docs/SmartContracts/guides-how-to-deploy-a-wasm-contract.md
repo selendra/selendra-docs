@@ -2,11 +2,11 @@
 
 Before deploying your Smart contract on the Selendra Mainnet, you are recommended to deploy your contract on your local development chain first, then on the [Indranet](https://testnet.selendra.org).
 
-First, select Indranet on the top left of chain selection menu.
+First, select Indranet on the top left of **chain selection menu**.
 
 ![Indranet Selection](../assets/indranet-selection.png "Indranet Selection")
 
-Click **Contract tab**, and choose **Upload & deploy** code
+Click **Contract tab**, and choose **Upload & deploy code**.
 
 ![Indranet Selection](../assets/upload-contract.png "Indranet Selection")
 
