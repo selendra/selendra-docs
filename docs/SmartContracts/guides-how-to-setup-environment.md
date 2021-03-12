@@ -59,4 +59,4 @@ Make sure you have run Node read for your contract to be deployed. If you have n
 
 ### We Want to Hear From You
 
-If you have any feedback regarding deploying Smart contract on your project, feel free to contact us via our Telegram group [here](https://t.me/selendra_sel).
+If you have any feedback regarding deploying Smart contract on your project, feel free to contact us via our Telegram group [here](https://t.me/selendraorg).

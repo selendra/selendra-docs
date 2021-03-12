@@ -28,4 +28,4 @@ You should see a target folder that contains these files:
 ```
 ### We Want to Hear From You
 
-If you have any feedback regarding deploying Smart contract on your project, feel free to contact us via our Telegram group [here](https://t.me/selendra_sel).
+If you have any feedback regarding deploying Smart contract on your project, feel free to contact us via our Telegram group [here](https://t.me/selendraorg).

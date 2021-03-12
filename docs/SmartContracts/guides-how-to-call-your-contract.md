@@ -25,4 +25,4 @@ Using these two kinds of messages, your DApp can be easily read and written the 
 
 ### We Want to Hear From You
 
-If you have any feedback regarding deploying Smart contract on your project, feel free to contact us via our Telegram group [here](https://t.me/selendra_sel).
+If you have any feedback regarding deploying Smart contract on your project, feel free to contact us via our Telegram group [here](https://t.me/selendraorg).
