@@ -1,11 +1,11 @@
-### Setup Environment
+## Setup Environment
 
-#### Introduction
-Selendra is based on Substrate. we support ink!, an [eDSL](https://wiki.haskell.org/Embedded_domain_specific_language) to write WebAssembly based smart contracts using the Rust programming language. 
+### Introduction
+Selendra is based on Substrate. We support ink!, an [eDSL](https://wiki.haskell.org/Embedded_domain_specific_language) that uses Rust programming language to write WebAssembly-based Smart contract. 
 
-Learn more from Parity Technologies refer to this page: https://substrate.dev/substrate-contracts-workshop/#/
+Learn more from Parity Technologies: https://substrate.dev/substrate-contracts-workshop/#/
 
-#### Prerequisites
+### Prerequisites
 
 #### Arch Linux
 ```
@@ -15,7 +15,7 @@ export OPENSSL_INCLUDE_DIR="/usr/include/openssl-1.0"
 ```
 
 #### Ubuntu/Debian
-Use a terminal shell to execute the following commands:
+To execute the following commands, use the terminal shell:
 ```
 sudo apt update
 # May prompt for location information
@@ -23,7 +23,7 @@ sudo apt install -y cmake pkg-config libssl-dev git build-essential clang libcla
 ```
 
 #### macOS
-Open the Terminal application and execute the following commands:
+Open the terminal and execute the following commands:
 
 ```
 # Install Homebrew if necessary https://brew.sh/
@@ -35,27 +35,28 @@ brew install openssl cmake
 ```
 
 #### Latest Nightly
-Use a terminal shell to execute the following commands:
+Use the terminal shell to perform the following commands:
 ```
 rustup update
 rustup update nightly
 rustup target add wasm32-unknown-unknown --toolchain nightly
 ```
 #### ink! CLI
-The final tool we will be installing is the ink! command line utility which will make setting up Substrate smart contract projects easier.
+The final tool we will be installing is the ink! command line utility which will make setting up Substrate Smart contract projects easier.
 
-You can install the utility using Cargo with:
+With Cargo, you can install the utility:
 
 ```
 cargo install cargo-contract --force
 ```
-Use the --force to ensure you are updated to the most recent cargo-contract version.
+Use the *--force* to ensure you are up to date cargo-contract version.
 
-You can then use cargo contract --help to start exploring the commands made available to you.
+To explore available commands, you can use Cargo contract *--help*.
+
 
 ### Setting Up a Indracore Node
-Make sure you have running node read for your contract to be deployed. If you had not installed the node yet following the [Setting Up Local Node](https://docs.selendra.org/Maintain/guides-how-to-setup-indracore-local-node)
+Make sure you have run Node read for your contract to be deployed. If you have not installed the Node yet, following the [Setting Up Local Node](https://docs.selendra.org/Maintain/guides-how-to-setup-indracore-local-node)
 
-#### We Want to Hear From You
+### We Want to Hear From You
 
-If you have any feedback regarding deploying Smartcontract on your project, feel free to reach out through our official community at Telegram group [here](https://t.me/selendra_sel).
+If you have any feedback regarding deploying Smart contract on your project, feel free to contact us via our Telegram group [here](https://t.me/selendra_sel).
