@@ -21,7 +21,7 @@ Second, let's change a Smart contract state by sending a "message", send flip() 
 Verify the result:
 ![Call last Flip value.](../assets/calling-contract-04.png "Call last Flip value.")
 
-Using these two kinds of messages, your DApp can be easily written and read the Smart contract data. Have fun!
+Using these two kinds of messages, your DApp can be easily read and written the Smart contract data.
 
 ### We Want to Hear From You
 
