@@ -15,9 +15,9 @@ Selendra is codebase for Selendra a multi-use cases blockchain super-app for the
 
 ## How to be part of our Community  
 
-General information and other non-technical topics can be discussed in our Telegram group [here](https://t.me/selendra_sel).
+General information and other non-technical topics can be discussed in our Telegram group [here](https://t.me/selendraorg).
 
-Follow us on Twitter for regular updates: [@selendraio](https://twitter.com/selendraio).
+Follow us on Twitter for regular updates: [@selendraio](https://twitter.com/selendraorg).
 
 
 ## About This Site
