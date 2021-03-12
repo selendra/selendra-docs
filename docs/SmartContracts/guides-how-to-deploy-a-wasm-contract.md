@@ -42,7 +42,7 @@ Enter your contract name, and confirm the endowment.
 
 ![Indranet Selection](../assets/upload-contract-8.png "Indranet Selection")
 
-Now your contract is finish.
+Now your contract is done.
 
 ![Indranet Selection](../assets/upload-contract-9.png "Indranet Selection")
 
